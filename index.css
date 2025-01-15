@@ -119,7 +119,7 @@ a:hover{
     padding-top: 50px;
 }
 
-@media screen (max-width : 600px) {
+/* @media screen (max-width : 600px) {
     .main-name{
         font-size: 20px;
         height: 20px;
@@ -134,4 +134,4 @@ a:hover{
     }
     
     
-}
+} */
